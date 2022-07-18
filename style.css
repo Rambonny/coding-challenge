@@ -1,0 +1,68 @@
+body{
+  background-image: url("background.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.container{
+  background-color: rgba(0, 0, 0, 0.5);
+  width: 700px;
+  margin: auto;
+  border-radius: 20px;
+}
+
+.content{
+  padding: 35px;
+  margin: auto;
+}
+
+header, nav{
+  text-align: center;
+}
+
+.logo{
+  width: 180px;
+}
+
+.logo-text{
+  color: #32CD32;
+}
+
+nav{
+  background-color: #32CD32;
+  padding: 10px;
+  width: 600px;
+}
+
+.block{
+  padding: 20px;
+  color: white;
+}
+
+.line-1{
+  width: 250px;
+  height: 20px;
+  background-color: orange;
+  border-radius: 5px;
+  margin: 0;
+  border: 0;
+}
+
+.line-2{
+  width: 400px;
+  height: 20px;
+  background-color: #32CD32;
+  border-radius: 5px;
+  margin: 0;
+  border: 0;
+}
+
+.line-3{
+  width: 100px;
+  height: 20px;
+  background-color: red;
+  border-radius: 5px;
+  margin: 0;
+  border: 0;
+}
